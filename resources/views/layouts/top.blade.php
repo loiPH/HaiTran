@@ -158,7 +158,7 @@
 	}
 }
 
-/*CHECH INFORMTAION GITHUB CHANGE*/
+/*CHECH INFORMTAION GITHUB CHANGE lần 2*/
 
 </style>
 {{-- Phần scrip chạy button menu trên responsive website mobile --}}
