@@ -6,8 +6,6 @@ Công ty TNHH PHI THIÊN VŨ
 @section('content')
 
 
-{{-- không hiểu luôn nè --}}
-
 <style>
 
 .menuleft{
